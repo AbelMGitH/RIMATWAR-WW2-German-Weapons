@@ -1,0 +1,4 @@
+# Ignore reference files
+/Reference_
+# Ignore all DDS texture files
+*.dds
